@@ -1,0 +1,17 @@
+h1{
+    font-size: 18px !important;
+
+}
+.items{
+    display: flex;
+    justify-content: space-between;
+
+}
+span{
+    background-color: gray;
+font-size: 13px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border-radius: 5px;
+    margin: 0px 2px;
+}
