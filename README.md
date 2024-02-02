@@ -1,4 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![11](https://github.com/HamidEidy/movie-website/assets/148962898/e975e4bc-1c45-4c0b-bfe0-356aeac3b7ee)
+
+![22](https://github.com/HamidEidy/movie-website/assets/148962898/e81665e7-5675-48d5-a15b-91bb4fffa633)
+
 
 ## Getting Started
 
